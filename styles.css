@@ -1,0 +1,77 @@
+body {
+    background-color: #eaf6f6;
+    margin: 0;
+    font-family: sans-serif;
+    
+}
+
+header
+{
+    margin-top: 0%;
+    background-image: url(macbook_mouse.jpg);
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    
+    
+}
+hr
+{
+    background-color: white;
+    border-style:dotted none none none;
+    align-items: center;
+    border-color: grey;
+    border-width: 5px;
+    height: 0%;
+    width: 5%;
+}
+
+
+img
+{
+    background-color: red;
+    border-color: red;
+    height: 30vh;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 , h3 
+{
+    color: red;
+    display: block;
+    margin-left:auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+   /* background-color: blue;*/
+}
+
+
+/************** class selectors*************/
+
+table
+{
+    
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+/************ Id selectors***********/
+/* can be used only once also id can be assigned to only one element  ***/
+#heading
+{
+    color: white;
+    font-size: 10vh;
+    margin-top: 0;
+    
+
+}
+
+
+
